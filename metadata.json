@@ -1,0 +1,6 @@
+{
+  "name": "Roamly Tamil Nadu",
+  "description": "Explore authentic Tamil Nadu destinations, heritage trails, hill stations, and coastal retreats with secure booking and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
